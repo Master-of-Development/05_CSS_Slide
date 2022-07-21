@@ -5,4 +5,4 @@
 - 슬라이드는 3초내에 전환되어야 한다.
 - 첨부된 영상을 참고하여 만든다.
 
-<img width="100%" src="https://user-images.githubusercontent.com/89061456/180110044-5257c4d2-2847-41d5-869c-b951a61a2f9c.gif"/>
+<img width="80%" src="https://user-images.githubusercontent.com/89061456/180110044-5257c4d2-2847-41d5-869c-b951a61a2f9c.gif"/>
